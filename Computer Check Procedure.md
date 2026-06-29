@@ -29,5 +29,5 @@ powercfg /batteryreport
 Full÷Design×100
 
 ## RAM
-wmic memorychip get devicelocator, speed, partnumber, manufacturer
+wmic memorychip get devicelocator, capacity, speed, partnumber, manufacturer
 wmic memorychip list full
