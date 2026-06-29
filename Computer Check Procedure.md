@@ -1,6 +1,9 @@
 Computer Check Procedure
 ========================
 
+## 火牛 Power Supply/AC Adapter
+
+
 ## 機身 Body
 
 變形 notebook 須當面摺合開關檢查清楚
