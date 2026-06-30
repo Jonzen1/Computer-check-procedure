@@ -9,9 +9,9 @@ Computer Check Procedure
 
 👉🏼要求 Seller 開合示範
 
-# 喇叭 Speaker
+## 喇叭 Speaker
 
-# 上網 Wireless Network
+## 上網 Wireless Network
 
 ## BIOS
 
