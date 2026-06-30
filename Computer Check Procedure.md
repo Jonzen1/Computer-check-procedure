@@ -3,16 +3,19 @@ Computer Check Procedure
 
 ## 火牛 Power Supply/AC Adapter
 
-
 ## 機身 Body
 
 變形 notebook 須當面摺合開關檢查清楚
 
 👉🏼要求 Seller 開合示範
 
+# 喇叭 Speaker
+
+# 上網 Wireless Network
+
 ## BIOS
 
-                一律先hold key後Power
+            一律先hold key後Power
 Sony:        F2/Assis, F11 boot menu
 
 - ▲             先F3/F4後Power
@@ -47,6 +50,5 @@ Full÷Design×100
 ## RAM
 
 wmic memorychip get devicelocator, capacity, speed, partnumber, manufacturer
-
 
 wmic memorychip list full
